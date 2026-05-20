@@ -1,22 +1,27 @@
 # Daily AI News Summary
 
-### 2026-02-05
-- [Indian IT firms must either build AI from the ground up or acquire core model capabilities, as Anthropic's new AI tool sparks deep selloff in data analytics and software stocks](https://www.businesstoday.in/markets/stocks/story/it-stocks-anthropic-ai-sparks-deepseek-20-moment-selloff-an-opportunity-for-investors-514693-2026-02-05)
-- [Ad Age’s Emerging Tech roundup: in-chat advertising, IAB’s plan to solve measurement woes with AI, Snowflake’s $200 million deal with OpenAI, and more](https://adage.com/technology/ai/aa-emerging-tech-news-and-trends-anthropic-openai-iab/)
-- [On-demand delivery firm Wolt announces workforce management tie-up with Legion Technologies, and UK online retailers are bullish on 2026 as AI adoption transforms shopping and delivery](https://retailtechinnovationhub.com/home/2026/2/4/on-demand-delivery-firm-wolt-announces-workforce-management-tie-up-with-legion-technologies)
+### 2026-05-02
+- [European technology startups take center stage, with many promising projects in artificial intelligence and deep tech](https://zamin.uz/en/technology/198852-european-technology-startups-take-center-stage.html)
+- [This artful boutique hotel in Mahón might be Menorca’s most stylish stay](https://www.forbes.com/sites/stephanieorma/2026/05/02/this-artful-boutique-hotel-in-mahn-might-be-menorcas-most-stylish-stay/)
 
-### 2026-02-04
-- [Indian IT stocks saw big declines following a slump in key US software stocks, as the market reacted to Anthropic's new AI-based tools](https://www.forbes.com/sites/siladityaray/2026/02/04/indian-it-stocks-nosedive-as-fear-of-anthropics-new-ai-tool-goes-global/)
-- [Cognizant forecasts annual revenue above estimates on strong AI demand, with a revenue expectation of $22.14 billion to $22.66 billion](https://www.reuters.com/technology/cognizant-forecasts-annual-revenue-above-estimates-2026-02-04)
-- [Knexus, a provider of enterprise artificial intelligence technologies, has sold a majority stake to private equity firm DC Capital Partners](https://www.washingtontechnology.com/companies/2026/02/knexus-gets-dc-capitals-backing/411186/)
-- [Software makers, advertising agencies, and investment firms were hit by another wave of selling due to AI disruption fears](https://www.bloomberg.com/news/articles/2026-02-04/software-stocks-are-now-sentenced-before-trial-jpmorgan-says)
-- [The World’s First Viral AI Assistant Has Arrived, and things are getting weird, with AI assistants being used for various tasks](https://www.wsj.com/tech/ai/openclaw-ai-agents-moltbook-social-network-5b79ad65)
-- [Global software stocks struggled due to mounting worries about AI disruption, with European data analytics and professional services stocks falling](https://finance.yahoo.com/news/global-software-stocks-hit-anthropic-120659089.html)
-- [Google’s latest quarterly report showed its internet empire withstanding an AI shakeup, with over 10% digital ad growth and 30% sales growth in its AI services division](https://apnews.com/article/google-alphabet-fourth-quarter-results-73922dd5d0c2398e1d4f23ddfccd0277)
-- [Transport for NSW brought in its second former NBN Co data leader, and Nvidia's Huang dismissed fears that AI will replace software tools](https://www.itnews.com.au/news/transport-for-nsw-lands-two-nbn-co-data-leaders-623380)
-- [NFL-Super Bowl prepares for potential AI cyber security threat, and Nvidia's Huang says AI won't replace software tools](https://www.itnews.com.au/news/nfl-super-bowl-prepares-for-potential-ai-cyber-security-threat-623395)
-- [Google-parent Alphabet says capital spending to soar on AI drive, with a focus on developing its AI capabilities](https://www.reuters.com/video/watch/idRW281905022026RP1/)
-- [Broadcom shares rallied after Google reported earnings and surging capital expenditures for artificial intelligence](https://www.cnbc.com/2026/02/04/broadcom-google-tpu-ai-nvidia.html)
-- [Elon Musk’s SpaceX merges with xAI to launch AI data centers in space, aiming to build a space-based competitive edge](https://www.forbes.com.au/news/billionaires/elon-musks-spacex-merges-with-xai-in-bid-to-launch-ai-data-centres-in-space/)
-- [Teradyne reports ‘striking’ Q4 revenue growth driven by AI demand, with $883 million in revenue from its semiconductor testing business](https://www.manufacturingdive.com/news/teradyne-reports-108m-q4-revenue-driven-by-ai/811234/)
-- [2025’s Five Biggest AI-Related Developments in IP Law, including high-stakes settlements and class actions against Big Tech companies](https://www.law.com/legaltechnews/2026/02/04/2025s-five-biggest-ai-related-developments-in-ip-law/)
+### 2026-05-01
+- [Anthropic's latest AI model, Claude Mythos, has uncovered thousands of hidden vulnerabilities in computer software, prompting concerns about its release](https://www.modernghana.com/amp/videonews/643406)
+- [The Pentagon has signed contracts with Nvidia, Microsoft, Amazon Web Services, and Reflection AI to use their AI technologies on classified networks](https://zamin.uz/en/technology/198785-pentagon-to-implement-artificial-intelligence-on-closed-networks.html)
+- [AI Processing of Earth Images Can Now Run In Space, and other advancements in AI technology](https://spectrum.ieee.org/amp/video-friday-humanoid-robot-production-2676819575)
+- [Artificial intelligence tools can analyze electronic health records to estimate a child's risk of developing ADHD](https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-sage-launches-ehr-integrated-senior-care-workflows-st-lukes)
+- [A journal's AI task force has conducted a review of its content, finding that non-native English speakers and inexperienced researchers are most likely to use AI](https://phys.org/news/2026-05-journal-ai-academic-publishing-quality.html)
+- [The Pentagon has reached agreements with seven tech companies to use their AI tools on classified networks](https://www.forbes.com/sites/the-prototype/2026/05/01/its-10pm-do-you-know-where-your-ai-agents-are/)
+- [The White House wants to keep Anthropic from expanding access to its new model, Mythos, over concerns about the company's computing power](https://www.forbes.com/sites/the-prototype/2026/05/01/its-10pm-do-you-know-where-your-ai-agents-are/)
+- [Microsoft, Amazon, and other companies have signed agreements with the Pentagon to deploy their AI tools on classified networks](https://www.bloomberg.com/news/articles/2026-05-01/nvidia-microsoft-aws-expanding-classified-military-ai-use)
+- [The Academy of Motion Picture Arts and Sciences has clarified that only human-performed acting and writing will be considered eligible for an Oscar](https://www.bbc.com/news/articles/cx21dl3v7d3o)
+- [The time economy is replacing the hustle economy, with workers using generative AI tools to reduce workload and automate tasks](https://www.forbes.com/sites/jasminebrowley/2026/05/01/the-time-economy-is-replacing-the-hustle-economy/)
+- [Nvidia's data-center revenue has surged 75% year over year, driven by demand from hyperscalers deploying AI systems](https://247wallst.com/investing/2026/05/01/the-big-4-hyperscalers-are-spending-710-billion-on-ai-heres-the-stock-that-profits-most/)
+- [A Law360 survey finds that firms are increasingly viewing AI as a potential material source of risk](https://www.law360.com/corporate/articles/2470999/how-spillover-effects-can-skew-ai-securities-class-actions)
+- [Google's compute advantage is crushing its rivals, with the company leading in AI computing power](https://www.businessinsider.com/google-compute-advantage-crushing-rivals-sam-altman-ai-2026-5)
+- [Dean Ball, a former senior adviser on AI policy, says that a fundamental shift is underway in AI policy](https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/05/01/ai-tech-brief-dean-ball-shift-ai-policy/)
+- [Samsung's latest software update is missing, leaving millions of Galaxy users waiting](https://www.forbes.com/sites/davidphelan/2026/05/01/samsung-one-ui-85-update-missing-why-millions-of-galaxy-users-are-still-waiting-today/)
+
+### 2026-05-01 (continued)
+- [Cyber defenders warn that AI agents shouldn't be trusted and should be deployed incrementally under close supervision](https://www.vitallaw.com/news/ai-agents-shouldn-t-be-trusted-cyber-defenders-warn/cspd019b536d87781243be811ce051e348ec97)
+- [The Pentagon has reached deals with seven tech companies to use their artificial intelligence in its classified computer networks](https://www.timesofisrael.com/us-military-reaches-deal-with-7-tech-firms-to-use-their-ai-on-classified-systems/amp/)
+- [Android news headlines include Galaxy S27 camera details, Pixel 11's glow up, and Pixel 10 price cuts](https://www.forbes.com/sites/ewanspence/2026/05/01/android-news-headlines-galaxy-s27-pixel-11-oneplus-15t-pixel-10-pro-galaxy-glasses-youtube-pip/)

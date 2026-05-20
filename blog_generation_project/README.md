@@ -1,9 +1,12 @@
 ### 1) initalize uv
     - uv init .
+    
 ### 2) create virtual environment
     - uv venv
+
 ### 3) activate environment
     - source .venv/bin/activate
+
 ### 4) install requirement.txt file
     - uv add -r requirement.txt
 
